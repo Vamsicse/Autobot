@@ -1,0 +1,1189 @@
+{
+    "offset": 0,
+    "count": 25,
+    "hasMore": true,
+    "limit": 25,
+    "links": [{
+        "kind": "collection",
+        "rel": "self",
+        "name": "catalogItemDetails",
+        "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails"
+    }],
+    "items": [
+        {
+            "RequisitioningBUId": 204,
+            "CurrencyUnitPrice": 1108,
+            "ItemDescription": "Standard Desktop",
+            "CurrencyCode": "USD",
+            "FunctionalCurrencyCode": "USD",
+            "Manufacturer": null,
+            "SupplierPartNumber": null,
+            "links": [
+                {
+                    "kind": "item",
+                    "rel": "self",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/9504"
+                },
+                {
+                    "kind": "item",
+                    "rel": "canonical",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/9504"
+                },
+                {
+                    "kind": "collection",
+                    "rel": "child",
+                    "name": "priceBreaks",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/9504/child/priceBreaks"
+                }
+            ],
+            "FormattedUnitPrice": "1,108.00",
+            "CatalogItemKey": 9504,
+            "Amount": null,
+            "ItemSource": "CATALOG",
+            "ManufacturerPartNumber": null,
+            "FormattedAmount": null,
+            "FormattedCurrencyUnitPrice": "1,108.00",
+            "FunctionalCurrencySymbol": "$",
+            "CurrencyAmount": null,
+            "UnitPrice": 1108,
+            "UOM": "Each",
+            "LongDescription": null,
+            "ThumbnailImage": null,
+            "ItemKey": "l#149#-2#-2#US",
+            "SuggestedVendorName": null,
+            "FormattedCurrencyAmount": null,
+            "OrderTypeLookupCode": "QUANTITY",
+            "CategoryName": null
+        },
+        {
+            "RequisitioningBUId": 204,
+            "CurrencyUnitPrice": 106,
+            "ItemDescription": "desc-DIT",
+            "CurrencyCode": "USD",
+            "FunctionalCurrencyCode": "USD",
+            "Manufacturer": null,
+            "SupplierPartNumber": null,
+            "links": [
+                {
+                    "kind": "item",
+                    "rel": "self",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/12643"
+                },
+                {
+                    "kind": "item",
+                    "rel": "canonical",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/12643"
+                },
+                {
+                    "kind": "collection",
+                    "rel": "child",
+                    "name": "priceBreaks",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/12643/child/priceBreaks"
+                }
+            ],
+            "FormattedUnitPrice": "106.00",
+            "CatalogItemKey": 12643,
+            "Amount": null,
+            "ItemSource": "CATALOG",
+            "ManufacturerPartNumber": null,
+            "FormattedAmount": null,
+            "FormattedCurrencyUnitPrice": "106.00",
+            "FunctionalCurrencySymbol": "$",
+            "CurrencyAmount": null,
+            "UnitPrice": 106,
+            "UOM": "Each",
+            "LongDescription": null,
+            "ThumbnailImage": null,
+            "ItemKey": "l#183#-2#-2#US",
+            "SuggestedVendorName": null,
+            "FormattedCurrencyAmount": null,
+            "OrderTypeLookupCode": "QUANTITY",
+            "CategoryName": null
+        },
+        {
+            "RequisitioningBUId": 204,
+            "CurrencyUnitPrice": 45,
+            "ItemDescription": "desc-DIT",
+            "CurrencyCode": "USD",
+            "FunctionalCurrencyCode": "USD",
+            "Manufacturer": null,
+            "SupplierPartNumber": null,
+            "links": [
+                {
+                    "kind": "item",
+                    "rel": "self",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13184"
+                },
+                {
+                    "kind": "item",
+                    "rel": "canonical",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13184"
+                },
+                {
+                    "kind": "collection",
+                    "rel": "child",
+                    "name": "priceBreaks",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13184/child/priceBreaks"
+                }
+            ],
+            "FormattedUnitPrice": "45.00",
+            "CatalogItemKey": 13184,
+            "Amount": null,
+            "ItemSource": "CATALOG",
+            "ManufacturerPartNumber": null,
+            "FormattedAmount": null,
+            "FormattedCurrencyUnitPrice": "45.00",
+            "FunctionalCurrencySymbol": "$",
+            "CurrencyAmount": null,
+            "UnitPrice": 45,
+            "UOM": "Each",
+            "LongDescription": null,
+            "ThumbnailImage": null,
+            "ItemKey": "l#187#-2#-2#US",
+            "SuggestedVendorName": null,
+            "FormattedCurrencyAmount": null,
+            "OrderTypeLookupCode": "QUANTITY",
+            "CategoryName": "Drives"
+        },
+        {
+            "RequisitioningBUId": 204,
+            "CurrencyUnitPrice": 78,
+            "ItemDescription": "RAM - 128MB",
+            "CurrencyCode": "USD",
+            "FunctionalCurrencyCode": "USD",
+            "Manufacturer": null,
+            "SupplierPartNumber": null,
+            "links": [
+                {
+                    "kind": "item",
+                    "rel": "self",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/30318"
+                },
+                {
+                    "kind": "item",
+                    "rel": "canonical",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/30318"
+                },
+                {
+                    "kind": "collection",
+                    "rel": "child",
+                    "name": "priceBreaks",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/30318/child/priceBreaks"
+                }
+            ],
+            "FormattedUnitPrice": "78.00",
+            "CatalogItemKey": 30318,
+            "Amount": null,
+            "ItemSource": "CATALOG",
+            "ManufacturerPartNumber": null,
+            "FormattedAmount": null,
+            "FormattedCurrencyUnitPrice": "78.00",
+            "FunctionalCurrencySymbol": "$",
+            "CurrencyAmount": null,
+            "UnitPrice": 78,
+            "UOM": "Each",
+            "LongDescription": null,
+            "ThumbnailImage": null,
+            "ItemKey": "l#193#-2#-2#US",
+            "SuggestedVendorName": null,
+            "FormattedCurrencyAmount": null,
+            "OrderTypeLookupCode": "QUANTITY",
+            "CategoryName": "Electrical Equipment_32"
+        },
+        {
+            "RequisitioningBUId": 204,
+            "CurrencyUnitPrice": 44,
+            "ItemDescription": "Base item - CM96713",
+            "CurrencyCode": "USD",
+            "FunctionalCurrencyCode": "USD",
+            "Manufacturer": null,
+            "SupplierPartNumber": null,
+            "links": [
+                {
+                    "kind": "item",
+                    "rel": "self",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13217"
+                },
+                {
+                    "kind": "item",
+                    "rel": "canonical",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13217"
+                },
+                {
+                    "kind": "collection",
+                    "rel": "child",
+                    "name": "priceBreaks",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13217/child/priceBreaks"
+                }
+            ],
+            "FormattedUnitPrice": "44.00",
+            "CatalogItemKey": 13217,
+            "Amount": null,
+            "ItemSource": "CATALOG",
+            "ManufacturerPartNumber": null,
+            "FormattedAmount": null,
+            "FormattedCurrencyUnitPrice": "44.00",
+            "FunctionalCurrencySymbol": "$",
+            "CurrencyAmount": null,
+            "UnitPrice": 44,
+            "UOM": "Each",
+            "LongDescription": null,
+            "ThumbnailImage": null,
+            "ItemKey": "l#217#-2#-2#US",
+            "SuggestedVendorName": null,
+            "FormattedCurrencyAmount": null,
+            "OrderTypeLookupCode": "QUANTITY",
+            "CategoryName": "Software_113"
+        },
+        {
+            "RequisitioningBUId": 204,
+            "CurrencyUnitPrice": 26,
+            "ItemDescription": "Power / Recharging Unit",
+            "CurrencyCode": "USD",
+            "FunctionalCurrencyCode": "USD",
+            "Manufacturer": null,
+            "SupplierPartNumber": null,
+            "links": [
+                {
+                    "kind": "item",
+                    "rel": "self",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/30313"
+                },
+                {
+                    "kind": "item",
+                    "rel": "canonical",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/30313"
+                },
+                {
+                    "kind": "collection",
+                    "rel": "child",
+                    "name": "priceBreaks",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/30313/child/priceBreaks"
+                }
+            ],
+            "FormattedUnitPrice": "26.00",
+            "CatalogItemKey": 30313,
+            "Amount": null,
+            "ItemSource": "CATALOG",
+            "ManufacturerPartNumber": null,
+            "FormattedAmount": null,
+            "FormattedCurrencyUnitPrice": "26.00",
+            "FunctionalCurrencySymbol": "$",
+            "CurrencyAmount": null,
+            "UnitPrice": 26,
+            "UOM": "Each",
+            "LongDescription": null,
+            "ThumbnailImage": null,
+            "ItemKey": "l#231#-2#-2#US",
+            "SuggestedVendorName": null,
+            "FormattedCurrencyAmount": null,
+            "OrderTypeLookupCode": "QUANTITY",
+            "CategoryName": "Power supplies"
+        },
+        {
+            "RequisitioningBUId": 204,
+            "CurrencyUnitPrice": 215,
+            "ItemDescription": "desc-DIT",
+            "CurrencyCode": "USD",
+            "FunctionalCurrencyCode": "USD",
+            "Manufacturer": null,
+            "SupplierPartNumber": null,
+            "links": [
+                {
+                    "kind": "item",
+                    "rel": "self",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13225"
+                },
+                {
+                    "kind": "item",
+                    "rel": "canonical",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13225"
+                },
+                {
+                    "kind": "collection",
+                    "rel": "child",
+                    "name": "priceBreaks",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13225/child/priceBreaks"
+                }
+            ],
+            "FormattedUnitPrice": "215.00",
+            "CatalogItemKey": 13225,
+            "Amount": null,
+            "ItemSource": "CATALOG",
+            "ManufacturerPartNumber": null,
+            "FormattedAmount": null,
+            "FormattedCurrencyUnitPrice": "215.00",
+            "FunctionalCurrencySymbol": "$",
+            "CurrencyAmount": null,
+            "UnitPrice": 215,
+            "UOM": "Each",
+            "LongDescription": null,
+            "ThumbnailImage": null,
+            "ItemKey": "l#247#-2#-2#US",
+            "SuggestedVendorName": null,
+            "FormattedCurrencyAmount": null,
+            "OrderTypeLookupCode": "QUANTITY",
+            "CategoryName": "Monitors_30"
+        },
+        {
+            "RequisitioningBUId": 204,
+            "CurrencyUnitPrice": 150,
+            "ItemDescription": "desc-DIT",
+            "CurrencyCode": "USD",
+            "FunctionalCurrencyCode": "USD",
+            "Manufacturer": null,
+            "SupplierPartNumber": null,
+            "links": [
+                {
+                    "kind": "item",
+                    "rel": "self",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/12651"
+                },
+                {
+                    "kind": "item",
+                    "rel": "canonical",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/12651"
+                },
+                {
+                    "kind": "collection",
+                    "rel": "child",
+                    "name": "priceBreaks",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/12651/child/priceBreaks"
+                }
+            ],
+            "FormattedUnitPrice": "150.00",
+            "CatalogItemKey": 12651,
+            "Amount": null,
+            "ItemSource": "CATALOG",
+            "ManufacturerPartNumber": null,
+            "FormattedAmount": null,
+            "FormattedCurrencyUnitPrice": "150.00",
+            "FunctionalCurrencySymbol": "$",
+            "CurrencyAmount": null,
+            "UnitPrice": 150,
+            "UOM": "Each",
+            "LongDescription": null,
+            "ThumbnailImage": null,
+            "ItemKey": "l#249#-2#-2#US",
+            "SuggestedVendorName": null,
+            "FormattedCurrencyAmount": null,
+            "OrderTypeLookupCode": "QUANTITY",
+            "CategoryName": "Drives"
+        },
+        {
+            "RequisitioningBUId": 204,
+            "CurrencyUnitPrice": 2,
+            "ItemDescription": "desc-DIT",
+            "CurrencyCode": "USD",
+            "FunctionalCurrencyCode": "USD",
+            "Manufacturer": null,
+            "SupplierPartNumber": null,
+            "links": [
+                {
+                    "kind": "item",
+                    "rel": "self",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/47972"
+                },
+                {
+                    "kind": "item",
+                    "rel": "canonical",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/47972"
+                },
+                {
+                    "kind": "collection",
+                    "rel": "child",
+                    "name": "priceBreaks",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/47972/child/priceBreaks"
+                }
+            ],
+            "FormattedUnitPrice": "2.00",
+            "CatalogItemKey": 47972,
+            "Amount": null,
+            "ItemSource": "CATALOG",
+            "ManufacturerPartNumber": null,
+            "FormattedAmount": null,
+            "FormattedCurrencyUnitPrice": "2.00",
+            "FunctionalCurrencySymbol": "$",
+            "CurrencyAmount": null,
+            "UnitPrice": 2,
+            "UOM": "Each",
+            "LongDescription": null,
+            "ThumbnailImage": null,
+            "ItemKey": "l#339#-2#-2#US",
+            "SuggestedVendorName": null,
+            "FormattedCurrencyAmount": null,
+            "OrderTypeLookupCode": "QUANTITY",
+            "CategoryName": "Subassembly_114"
+        },
+        {
+            "RequisitioningBUId": 204,
+            "CurrencyUnitPrice": 1,
+            "ItemDescription": "Sheet Metal",
+            "CurrencyCode": "USD",
+            "FunctionalCurrencyCode": "USD",
+            "Manufacturer": null,
+            "SupplierPartNumber": null,
+            "links": [
+                {
+                    "kind": "item",
+                    "rel": "self",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/36"
+                },
+                {
+                    "kind": "item",
+                    "rel": "canonical",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/36"
+                },
+                {
+                    "kind": "collection",
+                    "rel": "child",
+                    "name": "priceBreaks",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/36/child/priceBreaks"
+                }
+            ],
+            "FormattedUnitPrice": "1.00",
+            "CatalogItemKey": 36,
+            "Amount": null,
+            "ItemSource": "CATALOG",
+            "ManufacturerPartNumber": null,
+            "FormattedAmount": null,
+            "FormattedCurrencyUnitPrice": "1.00",
+            "FunctionalCurrencySymbol": "$",
+            "CurrencyAmount": null,
+            "UnitPrice": 1,
+            "UOM": "Square foot",
+            "LongDescription": null,
+            "ThumbnailImage": null,
+            "ItemKey": "l#374#-2#-2#US",
+            "SuggestedVendorName": null,
+            "FormattedCurrencyAmount": null,
+            "OrderTypeLookupCode": "QUANTITY",
+            "CategoryName": "Paper"
+        },
+        {
+            "RequisitioningBUId": 204,
+            "CurrencyUnitPrice": 59,
+            "ItemDescription": "Envoy Docking Station",
+            "CurrencyCode": "USD",
+            "FunctionalCurrencyCode": "USD",
+            "Manufacturer": null,
+            "SupplierPartNumber": null,
+            "links": [
+                {
+                    "kind": "item",
+                    "rel": "self",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/52"
+                },
+                {
+                    "kind": "item",
+                    "rel": "canonical",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/52"
+                },
+                {
+                    "kind": "collection",
+                    "rel": "child",
+                    "name": "priceBreaks",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/52/child/priceBreaks"
+                }
+            ],
+            "FormattedUnitPrice": "59.00",
+            "CatalogItemKey": 52,
+            "Amount": null,
+            "ItemSource": "CATALOG",
+            "ManufacturerPartNumber": null,
+            "FormattedAmount": null,
+            "FormattedCurrencyUnitPrice": "59.00",
+            "FunctionalCurrencySymbol": "$",
+            "CurrencyAmount": null,
+            "UnitPrice": 59,
+            "UOM": "Each",
+            "LongDescription": null,
+            "ThumbnailImage": null,
+            "ItemKey": "l#394#-2#-2#US",
+            "SuggestedVendorName": null,
+            "FormattedCurrencyAmount": null,
+            "OrderTypeLookupCode": "QUANTITY",
+            "CategoryName": "Finished Goods_91"
+        },
+        {
+            "RequisitioningBUId": 204,
+            "CurrencyUnitPrice": 4,
+            "ItemDescription": "Plastic Housing - Gray",
+            "CurrencyCode": "USD",
+            "FunctionalCurrencyCode": "USD",
+            "Manufacturer": null,
+            "SupplierPartNumber": null,
+            "links": [
+                {
+                    "kind": "item",
+                    "rel": "self",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/70"
+                },
+                {
+                    "kind": "item",
+                    "rel": "canonical",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/70"
+                },
+                {
+                    "kind": "collection",
+                    "rel": "child",
+                    "name": "priceBreaks",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/70/child/priceBreaks"
+                }
+            ],
+            "FormattedUnitPrice": "4.00",
+            "CatalogItemKey": 70,
+            "Amount": null,
+            "ItemSource": "CATALOG",
+            "ManufacturerPartNumber": null,
+            "FormattedAmount": null,
+            "FormattedCurrencyUnitPrice": "4.00",
+            "FunctionalCurrencySymbol": "$",
+            "CurrencyAmount": null,
+            "UnitPrice": 4,
+            "UOM": "Each",
+            "LongDescription": null,
+            "ThumbnailImage": null,
+            "ItemKey": "l#396#-2#-2#US",
+            "SuggestedVendorName": null,
+            "FormattedCurrencyAmount": null,
+            "OrderTypeLookupCode": "QUANTITY",
+            "CategoryName": "Subassembly_114"
+        },
+        {
+            "RequisitioningBUId": 204,
+            "CurrencyUnitPrice": 3,
+            "ItemDescription": "Cable Harness",
+            "CurrencyCode": "USD",
+            "FunctionalCurrencyCode": "USD",
+            "Manufacturer": null,
+            "SupplierPartNumber": null,
+            "links": [
+                {
+                    "kind": "item",
+                    "rel": "self",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/77"
+                },
+                {
+                    "kind": "item",
+                    "rel": "canonical",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/77"
+                },
+                {
+                    "kind": "collection",
+                    "rel": "child",
+                    "name": "priceBreaks",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/77/child/priceBreaks"
+                }
+            ],
+            "FormattedUnitPrice": "3.00",
+            "CatalogItemKey": 77,
+            "Amount": null,
+            "ItemSource": "CATALOG",
+            "ManufacturerPartNumber": null,
+            "FormattedAmount": null,
+            "FormattedCurrencyUnitPrice": "3.00",
+            "FunctionalCurrencySymbol": "$",
+            "CurrencyAmount": null,
+            "UnitPrice": 3,
+            "UOM": "Each",
+            "LongDescription": null,
+            "ThumbnailImage": null,
+            "ItemKey": "l#398#-2#-2#US",
+            "SuggestedVendorName": null,
+            "FormattedCurrencyAmount": null,
+            "OrderTypeLookupCode": "QUANTITY",
+            "CategoryName": "Electrical Equipment_32"
+        },
+        {
+            "RequisitioningBUId": 204,
+            "CurrencyUnitPrice": 50,
+            "ItemDescription": "Power Supply",
+            "CurrencyCode": "USD",
+            "FunctionalCurrencyCode": "USD",
+            "Manufacturer": null,
+            "SupplierPartNumber": null,
+            "links": [
+                {
+                    "kind": "item",
+                    "rel": "self",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/92"
+                },
+                {
+                    "kind": "item",
+                    "rel": "canonical",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/92"
+                },
+                {
+                    "kind": "collection",
+                    "rel": "child",
+                    "name": "priceBreaks",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/92/child/priceBreaks"
+                }
+            ],
+            "FormattedUnitPrice": "50.00",
+            "CatalogItemKey": 92,
+            "Amount": null,
+            "ItemSource": "CATALOG",
+            "ManufacturerPartNumber": null,
+            "FormattedAmount": null,
+            "FormattedCurrencyUnitPrice": "50.00",
+            "FunctionalCurrencySymbol": "$",
+            "CurrencyAmount": null,
+            "UnitPrice": 50,
+            "UOM": "Each",
+            "LongDescription": null,
+            "ThumbnailImage": null,
+            "ItemKey": "l#402#-2#-2#US",
+            "SuggestedVendorName": null,
+            "FormattedCurrencyAmount": null,
+            "OrderTypeLookupCode": "QUANTITY",
+            "CategoryName": "Electrical Equipment_32"
+        },
+        {
+            "RequisitioningBUId": 204,
+            "CurrencyUnitPrice": 1,
+            "ItemDescription": "Plastic Stock - Gray",
+            "CurrencyCode": "USD",
+            "FunctionalCurrencyCode": "USD",
+            "Manufacturer": null,
+            "SupplierPartNumber": null,
+            "links": [
+                {
+                    "kind": "item",
+                    "rel": "self",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/117"
+                },
+                {
+                    "kind": "item",
+                    "rel": "canonical",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/117"
+                },
+                {
+                    "kind": "collection",
+                    "rel": "child",
+                    "name": "priceBreaks",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/117/child/priceBreaks"
+                }
+            ],
+            "FormattedUnitPrice": "1.00",
+            "CatalogItemKey": 117,
+            "Amount": null,
+            "ItemSource": "CATALOG",
+            "ManufacturerPartNumber": null,
+            "FormattedAmount": null,
+            "FormattedCurrencyUnitPrice": "1.00",
+            "FunctionalCurrencySymbol": "$",
+            "CurrencyAmount": null,
+            "UnitPrice": 1,
+            "UOM": "Pounds",
+            "LongDescription": null,
+            "ThumbnailImage": null,
+            "ItemKey": "l#408#-2#-2#US",
+            "SuggestedVendorName": null,
+            "FormattedCurrencyAmount": null,
+            "OrderTypeLookupCode": "QUANTITY",
+            "CategoryName": "Bulk production"
+        },
+        {
+            "RequisitioningBUId": 204,
+            "CurrencyUnitPrice": 165,
+            "ItemDescription": "Lightning Inkjet Printer",
+            "CurrencyCode": "USD",
+            "FunctionalCurrencyCode": "USD",
+            "Manufacturer": null,
+            "SupplierPartNumber": null,
+            "links": [
+                {
+                    "kind": "item",
+                    "rel": "self",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/169"
+                },
+                {
+                    "kind": "item",
+                    "rel": "canonical",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/169"
+                },
+                {
+                    "kind": "collection",
+                    "rel": "child",
+                    "name": "priceBreaks",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/169/child/priceBreaks"
+                }
+            ],
+            "FormattedUnitPrice": "165.00",
+            "CatalogItemKey": 169,
+            "Amount": null,
+            "ItemSource": "CATALOG",
+            "ManufacturerPartNumber": null,
+            "FormattedAmount": null,
+            "FormattedCurrencyUnitPrice": "165.00",
+            "FunctionalCurrencySymbol": "$",
+            "CurrencyAmount": null,
+            "UnitPrice": 165,
+            "UOM": "Each",
+            "LongDescription": null,
+            "ThumbnailImage": null,
+            "ItemKey": "l#436#-2#-2#US",
+            "SuggestedVendorName": null,
+            "FormattedCurrencyAmount": null,
+            "OrderTypeLookupCode": "QUANTITY",
+            "CategoryName": "Electrical Equipment_32"
+        },
+        {
+            "RequisitioningBUId": 204,
+            "CurrencyUnitPrice": 1,
+            "ItemDescription": "desc-DIT",
+            "CurrencyCode": "USD",
+            "FunctionalCurrencyCode": "USD",
+            "Manufacturer": null,
+            "SupplierPartNumber": null,
+            "links": [
+                {
+                    "kind": "item",
+                    "rel": "self",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13164"
+                },
+                {
+                    "kind": "item",
+                    "rel": "canonical",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13164"
+                },
+                {
+                    "kind": "collection",
+                    "rel": "child",
+                    "name": "priceBreaks",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13164/child/priceBreaks"
+                }
+            ],
+            "FormattedUnitPrice": "1.00",
+            "CatalogItemKey": 13164,
+            "Amount": null,
+            "ItemSource": "CATALOG",
+            "ManufacturerPartNumber": null,
+            "FormattedAmount": null,
+            "FormattedCurrencyUnitPrice": "1.00",
+            "FunctionalCurrencySymbol": "$",
+            "CurrencyAmount": null,
+            "UnitPrice": 1,
+            "UOM": "Each",
+            "LongDescription": null,
+            "ThumbnailImage": null,
+            "ItemKey": "l#438#-2#-2#US",
+            "SuggestedVendorName": null,
+            "FormattedCurrencyAmount": null,
+            "OrderTypeLookupCode": "QUANTITY",
+            "CategoryName": "Miscellaneous_1"
+        },
+        {
+            "RequisitioningBUId": 204,
+            "CurrencyUnitPrice": 0,
+            "ItemDescription": "Motor",
+            "CurrencyCode": "USD",
+            "FunctionalCurrencyCode": "USD",
+            "Manufacturer": null,
+            "SupplierPartNumber": null,
+            "links": [
+                {
+                    "kind": "item",
+                    "rel": "self",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/180"
+                },
+                {
+                    "kind": "item",
+                    "rel": "canonical",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/180"
+                },
+                {
+                    "kind": "collection",
+                    "rel": "child",
+                    "name": "priceBreaks",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/180/child/priceBreaks"
+                }
+            ],
+            "FormattedUnitPrice": "0.00",
+            "CatalogItemKey": 180,
+            "Amount": null,
+            "ItemSource": "CATALOG",
+            "ManufacturerPartNumber": null,
+            "FormattedAmount": null,
+            "FormattedCurrencyUnitPrice": "0.00",
+            "FunctionalCurrencySymbol": "$",
+            "CurrencyAmount": null,
+            "UnitPrice": 0,
+            "UOM": "Each",
+            "LongDescription": null,
+            "ThumbnailImage": null,
+            "ItemKey": "l#446#-2#-2#US",
+            "SuggestedVendorName": null,
+            "FormattedCurrencyAmount": null,
+            "OrderTypeLookupCode": "QUANTITY",
+            "CategoryName": "Electrical Equipment_32"
+        },
+        {
+            "RequisitioningBUId": 204,
+            "CurrencyUnitPrice": 0,
+            "ItemDescription": "desc-DIT",
+            "CurrencyCode": "USD",
+            "FunctionalCurrencyCode": "USD",
+            "Manufacturer": null,
+            "SupplierPartNumber": null,
+            "links": [
+                {
+                    "kind": "item",
+                    "rel": "self",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13219"
+                },
+                {
+                    "kind": "item",
+                    "rel": "canonical",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13219"
+                },
+                {
+                    "kind": "collection",
+                    "rel": "child",
+                    "name": "priceBreaks",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13219/child/priceBreaks"
+                }
+            ],
+            "FormattedUnitPrice": "0.00",
+            "CatalogItemKey": 13219,
+            "Amount": null,
+            "ItemSource": "CATALOG",
+            "ManufacturerPartNumber": null,
+            "FormattedAmount": null,
+            "FormattedCurrencyUnitPrice": "0.00",
+            "FunctionalCurrencySymbol": "$",
+            "CurrencyAmount": null,
+            "UnitPrice": 0,
+            "UOM": "Each",
+            "LongDescription": null,
+            "ThumbnailImage": null,
+            "ItemKey": "l#484#-2#-2#US",
+            "SuggestedVendorName": null,
+            "FormattedCurrencyAmount": null,
+            "OrderTypeLookupCode": "QUANTITY",
+            "CategoryName": "Bulk production"
+        },
+        {
+            "RequisitioningBUId": 204,
+            "CurrencyUnitPrice": 194,
+            "ItemDescription": "Base item - ASO0023",
+            "CurrencyCode": "USD",
+            "FunctionalCurrencyCode": "USD",
+            "Manufacturer": null,
+            "SupplierPartNumber": null,
+            "links": [
+                {
+                    "kind": "item",
+                    "rel": "self",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13220"
+                },
+                {
+                    "kind": "item",
+                    "rel": "canonical",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13220"
+                },
+                {
+                    "kind": "collection",
+                    "rel": "child",
+                    "name": "priceBreaks",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13220/child/priceBreaks"
+                }
+            ],
+            "FormattedUnitPrice": "194.00",
+            "CatalogItemKey": 13220,
+            "Amount": null,
+            "ItemSource": "CATALOG",
+            "ManufacturerPartNumber": null,
+            "FormattedAmount": null,
+            "FormattedCurrencyUnitPrice": "194.00",
+            "FunctionalCurrencySymbol": "$",
+            "CurrencyAmount": null,
+            "UnitPrice": 194,
+            "UOM": "Each",
+            "LongDescription": null,
+            "ThumbnailImage": null,
+            "ItemKey": "l#488#-2#-2#US",
+            "SuggestedVendorName": null,
+            "FormattedCurrencyAmount": null,
+            "OrderTypeLookupCode": "QUANTITY",
+            "CategoryName": "Monitors_30"
+        },
+        {
+            "RequisitioningBUId": 204,
+            "CurrencyUnitPrice": 147,
+            "ItemDescription": "desc-DIT",
+            "CurrencyCode": "USD",
+            "FunctionalCurrencyCode": "USD",
+            "Manufacturer": null,
+            "SupplierPartNumber": null,
+            "links": [
+                {
+                    "kind": "item",
+                    "rel": "self",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13255"
+                },
+                {
+                    "kind": "item",
+                    "rel": "canonical",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13255"
+                },
+                {
+                    "kind": "collection",
+                    "rel": "child",
+                    "name": "priceBreaks",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13255/child/priceBreaks"
+                }
+            ],
+            "FormattedUnitPrice": "147.00",
+            "CatalogItemKey": 13255,
+            "Amount": null,
+            "ItemSource": "CATALOG",
+            "ManufacturerPartNumber": null,
+            "FormattedAmount": null,
+            "FormattedCurrencyUnitPrice": "147.00",
+            "FunctionalCurrencySymbol": "$",
+            "CurrencyAmount": null,
+            "UnitPrice": 147,
+            "UOM": "Each",
+            "LongDescription": null,
+            "ThumbnailImage": null,
+            "ItemKey": "l#490#-2#-2#US",
+            "SuggestedVendorName": null,
+            "FormattedCurrencyAmount": null,
+            "OrderTypeLookupCode": "QUANTITY",
+            "CategoryName": "Monitors_30"
+        },
+        {
+            "RequisitioningBUId": 204,
+            "CurrencyUnitPrice": 824,
+            "ItemDescription": "desc-DIT",
+            "CurrencyCode": "USD",
+            "FunctionalCurrencyCode": "USD",
+            "Manufacturer": null,
+            "SupplierPartNumber": null,
+            "links": [
+                {
+                    "kind": "item",
+                    "rel": "self",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13247"
+                },
+                {
+                    "kind": "item",
+                    "rel": "canonical",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13247"
+                },
+                {
+                    "kind": "collection",
+                    "rel": "child",
+                    "name": "priceBreaks",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13247/child/priceBreaks"
+                }
+            ],
+            "FormattedUnitPrice": "824.00",
+            "CatalogItemKey": 13247,
+            "Amount": null,
+            "ItemSource": "CATALOG",
+            "ManufacturerPartNumber": null,
+            "FormattedAmount": null,
+            "FormattedCurrencyUnitPrice": "824.00",
+            "FunctionalCurrencySymbol": "$",
+            "CurrencyAmount": null,
+            "UnitPrice": 824,
+            "UOM": "Each",
+            "LongDescription": null,
+            "ThumbnailImage": null,
+            "ItemKey": "l#502#-2#-2#US",
+            "SuggestedVendorName": null,
+            "FormattedCurrencyAmount": null,
+            "OrderTypeLookupCode": "QUANTITY",
+            "CategoryName": "Monitors_30"
+        },
+        {
+            "RequisitioningBUId": 204,
+            "CurrencyUnitPrice": 41,
+            "ItemDescription": "desc-DIT",
+            "CurrencyCode": "USD",
+            "FunctionalCurrencyCode": "USD",
+            "Manufacturer": null,
+            "SupplierPartNumber": null,
+            "links": [
+                {
+                    "kind": "item",
+                    "rel": "self",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13212"
+                },
+                {
+                    "kind": "item",
+                    "rel": "canonical",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13212"
+                },
+                {
+                    "kind": "collection",
+                    "rel": "child",
+                    "name": "priceBreaks",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13212/child/priceBreaks"
+                }
+            ],
+            "FormattedUnitPrice": "41.00",
+            "CatalogItemKey": 13212,
+            "Amount": null,
+            "ItemSource": "CATALOG",
+            "ManufacturerPartNumber": null,
+            "FormattedAmount": null,
+            "FormattedCurrencyUnitPrice": "41.00",
+            "FunctionalCurrencySymbol": "$",
+            "CurrencyAmount": null,
+            "UnitPrice": 41,
+            "UOM": "Each",
+            "LongDescription": null,
+            "ThumbnailImage": null,
+            "ItemKey": "l#544#-2#-2#US",
+            "SuggestedVendorName": null,
+            "FormattedCurrencyAmount": null,
+            "OrderTypeLookupCode": "QUANTITY",
+            "CategoryName": "Drives"
+        },
+        {
+            "RequisitioningBUId": 204,
+            "CurrencyUnitPrice": 0,
+            "ItemDescription": "Base item - CM34306",
+            "CurrencyCode": "USD",
+            "FunctionalCurrencyCode": "USD",
+            "Manufacturer": null,
+            "SupplierPartNumber": null,
+            "links": [
+                {
+                    "kind": "item",
+                    "rel": "self",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13226"
+                },
+                {
+                    "kind": "item",
+                    "rel": "canonical",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13226"
+                },
+                {
+                    "kind": "collection",
+                    "rel": "child",
+                    "name": "priceBreaks",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13226/child/priceBreaks"
+                }
+            ],
+            "FormattedUnitPrice": "0.00",
+            "CatalogItemKey": 13226,
+            "Amount": null,
+            "ItemSource": "CATALOG",
+            "ManufacturerPartNumber": null,
+            "FormattedAmount": null,
+            "FormattedCurrencyUnitPrice": "0.00",
+            "FunctionalCurrencySymbol": "$",
+            "CurrencyAmount": null,
+            "UnitPrice": 0,
+            "UOM": "Each",
+            "LongDescription": null,
+            "ThumbnailImage": null,
+            "ItemKey": "l#648#-2#-2#US",
+            "SuggestedVendorName": null,
+            "FormattedCurrencyAmount": null,
+            "OrderTypeLookupCode": "QUANTITY",
+            "CategoryName": "Miscellaneous_1"
+        },
+        {
+            "RequisitioningBUId": 204,
+            "CurrencyUnitPrice": 16,
+            "ItemDescription": "Base item - CM66333",
+            "CurrencyCode": "USD",
+            "FunctionalCurrencyCode": "USD",
+            "Manufacturer": null,
+            "SupplierPartNumber": null,
+            "links": [
+                {
+                    "kind": "item",
+                    "rel": "self",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13165"
+                },
+                {
+                    "kind": "item",
+                    "rel": "canonical",
+                    "name": "catalogItemDetails",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13165"
+                },
+                {
+                    "kind": "collection",
+                    "rel": "child",
+                    "name": "priceBreaks",
+                    "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/13165/child/priceBreaks"
+                }
+            ],
+            "FormattedUnitPrice": "16.00",
+            "CatalogItemKey": 13165,
+            "Amount": null,
+            "ItemSource": "CATALOG",
+            "ManufacturerPartNumber": null,
+            "FormattedAmount": null,
+            "FormattedCurrencyUnitPrice": "16.00",
+            "FunctionalCurrencySymbol": "$",
+            "CurrencyAmount": null,
+            "UnitPrice": 16,
+            "UOM": "Each",
+            "LongDescription": null,
+            "ThumbnailImage": null,
+            "ItemKey": "l#676#-2#-2#US",
+            "SuggestedVendorName": null,
+            "FormattedCurrencyAmount": null,
+            "OrderTypeLookupCode": "QUANTITY",
+            "CategoryName": "Miscellaneous_1"
+        }
+    ]
+}

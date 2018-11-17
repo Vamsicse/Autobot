@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "ItemKey": "l#-2#376003#-2#US",
+      "ItemDescription": "Test123_56",
+      "LongDescription": null,
+      "CurrencyCode": "USD",
+      "OrderTypeLookupCode": "QUANTITY",
+      "CategoryName": "Miscellaneous_1",
+      "CurrencyUnitPrice": 22,
+      "UnitPrice": 22,
+      "CurrencyAmount": null,
+      "Amount": null,
+      "SuggestedVendorName": "Advanced Network Devices",
+      "Manufacturer": null,
+      "ThumbnailImage": null,
+      "ItemSource": "CATALOG",
+      "FunctionalCurrencyCode": "USD",
+      "CatalogItemKey": 1261,
+      "FunctionalCurrencySymbol": "$",
+      "ManufacturerPartNumber": null,
+      "SupplierPartNumber": null,
+      "UOM": "Each",
+      "RequisitioningBUId": 204,
+      "FormattedUnitPrice": "22.00",
+      "FormattedCurrencyUnitPrice": "22.00",
+      "FormattedAmount": null,
+      "FormattedCurrencyAmount": null,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/1261",
+          "name": "catalogItemDetails",
+          "kind": "item"
+        },
+        {
+          "rel": "canonical",
+          "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/1261",
+          "name": "catalogItemDetails",
+          "kind": "item"
+        },
+        {
+          "rel": "child",
+          "href": "https://slc11mgc.dev.oraclecorp.com:10608/procurementApi/resources/11.1.13/catalogItemDetails/1261/child/priceBreaks",
+          "name": "priceBreaks",
+          "kind": "collection"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestSuite>
+    
+    <!--  Accounts Test Cases  -->
+    <testcase>
+        <testId>Accounts_Post</testId>
+        <testDesc>Accounts POST</testDesc>
+        <testObject>accounts</testObject>
+        <restTestVerb>POST</restTestVerb>
+        <restURL>/crmCommonApi/resources/latest/accounts</restURL>
+        <dependentTest>false</dependentTest>
+        <unique>true</unique>
+        <keyAttribute>OrganizationName</keyAttribute>
+    </testcase>
+    <testcase>
+        <testId>Accounts_Get</testId>
+        <testDesc>Accounts GET</testDesc>
+        <testObject>accounts</testObject>
+        <restTestVerb>GET</restTestVerb>
+        <restURL>/crmCommonApi/resources/latest/accounts</restURL>
+        <dependentTest>false</dependentTest>
+        <unique>false</unique>
+    </testcase>
+    <testcase>
+        <testId>Accounts_GetX</testId>
+        <testDesc>Accounts GET</testDesc>
+        <testObject>accounts</testObject>
+        <restTestVerb>GET</restTestVerb>
+        <restURL>/crmCommonApi/resources/latest/accounts/{PartyNumber}</restURL>
+        <dependentTest>true</dependentTest>
+        <dependentOnTest>Accounts_Post</dependentOnTest>
+        <unique>false</unique>
+    </testcase>
+    <!--
+    <testcase>
+        <testId>Accounts_Patch</testId>
+        <testDesc>Accounts PUT</testDesc>
+        <testObject>accounts</testObject>
+        <restTestVerb>PUT</restTestVerb>
+        <restURL>/crmCommonApi/resources/latest/accounts/{PartyNumber}</restURL>
+        <dependentTest>true</dependentTest>
+        <dependentOnTest>Accounts_Post</dependentOnTest>
+        <unique>true</unique>
+        <keyAttribute>OrganizationName</keyAttribute>
+        <JSONAttribute2>SalesProfileNumber</JSONAttribute2>
+        <JSONAttribute3>PartyNumberKey</JSONAttribute3>
+    </testcase>
+    -->
+    <testcase>
+        <testId>Accounts_Delete</testId>
+        <testDesc>Accounts DELETE</testDesc>
+        <testObject>accounts</testObject>
+        <restTestVerb>DELETE</restTestVerb>
+        <restURL>/crmCommonApi/resources/latest/accounts/{PartyNumber}</restURL>
+        <dependentTest>true</dependentTest>
+        <dependentOnTest>Accounts_Post</dependentOnTest>
+        <unique>false</unique>
+    </testcase>
+    <testcase>
+        <testId>Accounts_Get_Neg</testId>
+        <testDesc>Accounts Get Negative Test</testDesc>
+        <testObject>accounts</testObject>
+        <restTestVerb>GET</restTestVerb>
+        <restURL>/crmCommonApi/resources/latest/accounts/{PartyNumber}</restURL>
+        <dependentTest>true</dependentTest>
+        <dependentOnTest>Accounts_Post</dependentOnTest>
+        <negativeTest>true</negativeTest>
+        <unique>false</unique>
+    </testcase>
+    <testcase>
+        <testId>Accounts_Describe</testId>
+        <testDesc>Accounts DESCRIBE</testDesc>
+        <testObject>accounts</testObject>
+        <restTestVerb>DESCRIBE</restTestVerb>
+        <restURL>/crmCommonApi/resources/latest/accounts/describe</restURL>
+        <dependentTest>false</dependentTest>
+        <unique>false</unique>
+    </testcase>
+    
+    <testcase>
+        <testId>Activities_Post</testId>
+        <testDesc>Activities Post</testDesc>
+        <testObject>activities</testObject>
+        <restTestVerb>POST</restTestVerb>
+        <restURL>/salesApi/resources/latest/activities</restURL>
+        <dependentTest>false</dependentTest>
+        <dependentOnTest>false</dependentOnTest>
+        <unique>false</unique>
+    </testcase>
+    <testcase>
+        <testId>Activities_Get</testId>
+        <testDesc>GET REST</testDesc>
+        <testObject>activities</testObject>
+        <restTestVerb>GET</restTestVerb>
+        <restURL>/salesApi/resources/latest/activities</restURL>
+        <dependentTest>false</dependentTest>
+        <dependentOnTest>false</dependentOnTest>
+        <unique>false</unique>
+    </testcase>
+    <!--
+    <testcase>
+        <testId>Activities_Patch</testId>
+        <testDesc>Activities Put</testDesc>
+        <testObject>activities</testObject>
+        <restTestVerb>PUT</restTestVerb>
+        <restURL>/salesApi/resources/latest/activities/{ActivityNumber}</restURL>
+        <dependentTest>true</dependentTest>
+        <dependentOnTest>Activities_Post</dependentOnTest>
+        <unique>false</unique>
+    </testcase>
+    -->
+    <testcase>
+        <testId>Activities_Delete</testId>
+        <testDesc>Activities Delete</testDesc>
+        <testObject>activities</testObject>
+        <restTestVerb>DELETE</restTestVerb>
+        <restURL>/salesApi/resources/latest/activities/{ActivityNumber}</restURL>
+        <dependentTest>true</dependentTest>
+        <dependentOnTest>Activities_Post</dependentOnTest>
+        <unique>false</unique>
+    </testcase>
+    <testcase>
+        <testId>Activities_Describe</testId>
+        <testDesc>DESCRIBE REST</testDesc>
+        <testObject>activities</testObject>
+        <restTestVerb>DESCRIBE</restTestVerb>
+        <restURL>/salesApi/resources/latest/activities/describe</restURL>
+        <dependentTest>false</dependentTest>
+        <dependentOnTest>false</dependentOnTest>
+        <unique>false</unique>
+    </testcase>
+    <!--  Contacts testcases   -->
+   
+ 
+    <!-- Custom Object testcases -->
+    
+
+
+</TestSuite>
