@@ -72,7 +72,7 @@ public class IOUtil {
         FileReader fr = null;
         BufferedReader br = null;
         try {
-            String uri = null;
+            String uri;
             if (path != null) {
                 uri = path + File.separatorChar + fileName;
             } else {
